@@ -1,6 +1,6 @@
-# Explorando Padrões de Projetos na Prática com Java
+# Desafio "Explorando Padrões de Projetos na Prática com Java Puro"
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
+Desafio Bootcamp DIO com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
 - Singleton
 - Strategy
 - Facade
